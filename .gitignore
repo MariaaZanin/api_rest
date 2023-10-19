@@ -1,0 +1,8 @@
+dist
+coverage
+data
+!src/data
+.idea
+.vscode
+*.log
+*.pem
